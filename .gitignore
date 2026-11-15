@@ -1,0 +1,6 @@
+*.o
+*.so
+*.zip
+tests/out/
+.DS_Store
+.vscode/
